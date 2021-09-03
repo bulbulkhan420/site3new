@@ -1,0 +1,15 @@
+.navb ul{
+    margin-left: 30%;
+}
+.isohead{
+    margin: 3% 20%;
+}
+.foot{
+    display: grid;
+    grid-template-areas:
+    'fo1 fo2'
+    'fo3 fo4'
+     ;
+     width: 90%;
+     margin: 5%;
+}
